@@ -1,0 +1,11 @@
+Lab 3a: Because the arguments of the swap() function are copies of the parameters passed from the main() function, they can be modified in the swap() function, but it doesn't carry over to the main() function. They remain unchanged and the nubmers are not swapped. 
+
+Lab 3b: It gives and error saying "incompatible types when assigning to type 'int[20]' from type 'int *'". 
+
+Lab 3d: array and array2 will point to the same array.  
+
+Lab 3f: You get values by saying array[i][j] and a new row starts whenver i (counter vairable for row) is being incremented. 
+
+Lab 3g: You get values by saying array[i][j] and a new row starts whenver i (counter variable for row) is being incremented.
+
+
