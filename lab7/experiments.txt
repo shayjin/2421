@@ -1,4 +1,3 @@
-1. Row major ordering is faster because assembly grabs memory in groups and the
-the row is already going to be in cache. 
+1. Row major ordering is faster because assembly grabs memory in groups and the row is already going to be in cache. 
 
 2. Using "time lab7" command provided 3 runtimes: real, user, and sys. By averaging 3 test cases, my result showed that shifting was faster than multiplying in real and user, by about 0.051 and 0.073 seconds, and multiplying was faster than shifting in sys, by about 0.007 seconds.  
