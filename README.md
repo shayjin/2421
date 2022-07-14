@@ -1,11 +1,16 @@
-# cse-2421
+# CSE 2421
 
-CSE 2421 (Systems 1: Introduction to Low-Level Programming and Computer Organization) Labs
+The Ohio State University CSE 2421 (Systems 1: Introduction to Low-Level Programming and Computer Organization) 
 
-Contributors:
+## Tools:
+- C
+- Assembly Language
+- Linux Command Line Interface
+
+## Contributors:
 
 - Jay Shin (shin.810@osu.edu)
 
-Instructor: 
+## Instructor: 
 
-- Yang Wang
+- [Yang Wang](https://cse.osu.edu/people/wang.7564) (wang.7564@osu.edu)
