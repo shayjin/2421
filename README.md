@@ -1,6 +1,6 @@
 # CSE 2421
 
-The Ohio State University CSE 2421 (Systems 1: Introduction to Low-Level Programming and Computer Organization) 
+The Ohio State University CSE 2421 (Systems I: Low-Level Programming and Computer Organization) 
 
 ## Tools:
 - C
